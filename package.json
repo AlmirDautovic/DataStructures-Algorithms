@@ -1,0 +1,23 @@
+{
+  "name": "datastructures-algorithms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlmirDautovic/DataStructures-Algorithms.git"
+  },
+  "keywords": [],
+  "author": "Almir Dautovic",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.6.1"
+  },
+  "bugs": {
+    "url": "https://github.com/AlmirDautovic/DataStructures-Algorithms/issues"
+  },
+  "homepage": "https://github.com/AlmirDautovic/DataStructures-Algorithms#readme"
+}
