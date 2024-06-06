@@ -1,5 +1,5 @@
 const areAllCharsUnique = require('./areAllCharsUnique');
 
-const result = areAllCharsUnique('abcdefghAa');
+const result = areAllCharsUnique('abcdefghA');
 
 console.log(result);
